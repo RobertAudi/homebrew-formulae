@@ -19,3 +19,12 @@ Install the packages it contains like any other Homebrew package:
 ```sh
 brew install sparc
 ```
+
+Development
+-----------
+
+Generate `sha256` hash:
+
+```sh
+$ sha256sum Formula/<formula>.rb
+```
