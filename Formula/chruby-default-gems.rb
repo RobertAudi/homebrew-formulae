@@ -1,11 +1,11 @@
 class ChrubyDefaultGems < Formula
   desc "Automatically install gems every time you install a new version of Ruby"
   homepage "http://0x49.0x2a.xyz/RobertAudi/chruby-default-gems"
-  url "http://0x49.0x2a.xyz/RobertAudi/chruby-default-gems/repository/archive.zip?ref=master"
   head "http://0x49.0x2a.xyz/RobertAudi/chruby-default-gems.git"
 
   version "0.1.0"
-  sha256 "40d77d2a30b176067410768456a9083367fcbe52c34feafe781309b30220b3fd"
+  url "http://0x49.0x2a.xyz/RobertAudi/chruby-default-gems/repository/archive.zip?ref=master"
+  sha256 "0d65274be8323b0608ddb90080508ff48b3f55a690d4baea10e3d4dbccd9a22f"
 
   def install
     share.install "chruby-default-gems.sh"
