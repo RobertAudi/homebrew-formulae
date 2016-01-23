@@ -4,6 +4,8 @@ class Fasd < Formula
   version "1.0.1"
   head "https://github.com/clvv/fasd.git"
 
+  conflicts_with "fasd"
+
   def install
     bin.install  "fasd"
     man1.install "fasd.1"
