@@ -11,7 +11,7 @@ Usage
 Tap this repository:
 
 ```sh
-brew tap RobertAudi/formulae http://0x49.0x2a.xyz/RobertAudi/homebrew-formulae.git
+brew tap RobertAudi/formulae https://0x49.0x2a.xyz/RobertAudi/homebrew-formulae.git
 ```
 
 Install the packages it contains like any other Homebrew package:
