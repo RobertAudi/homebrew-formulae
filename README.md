@@ -23,8 +23,8 @@ brew install sparc
 Development
 -----------
 
-Generate `sha256` hash:
+Generate `sha256` hash of the installed binaries:
 
 ```sh
-$ sha256sum Formula/<formula>.rb
+$ sha256sum <file>
 ```
