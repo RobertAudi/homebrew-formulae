@@ -9,6 +9,6 @@ class Lr < Formula
   end
 
   test do
-    system "#{bin}/lr" "-AFGl" "-ovh"
+    system "#{bin}/lr", "-AFGl", "-ovh"
   end
 end

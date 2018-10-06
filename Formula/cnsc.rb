@@ -9,6 +9,6 @@ class Cnsc < Formula
   end
 
   test do
-    system "#{bin}/cnsc" "-h"
+    system "#{bin}/cnsc", "-h"
   end
 end
