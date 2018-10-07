@@ -2,8 +2,8 @@ class Tmuxifier < Formula
   desc "Powerful session, window & pane management for Tmux."
   homepage "https://github.com/jimeh/tmuxifier"
 
-  url "https://github.com/jimeh/tmuxifier/archive/v0.12.2.tar.gz"
-  sha256 "a5ed6001f242e5cf27f702691828dd03124ea8cc1269569cad61c043ee949e82"
+  url "https://github.com/jimeh/tmuxifier/archive/v0.13.0.tar.gz"
+  sha256 "e7b329bdedf0c8694e3a83c41fd0cee6a003b1fecbdfad8f6d7a48f0be912ec9"
 
   head "https://github.com/jimeh/tmuxifier.git"
 
@@ -16,7 +16,7 @@ class Tmuxifier < Formula
   end
 
   def caveats
-    <<-EOS.undent
+    <<~EOS
     Add the following line to the ~/.bashrc or ~/.zshrc file:
 
       eval "$(tmuxifier init -)"
