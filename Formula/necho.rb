@@ -29,7 +29,7 @@ class Necho < Formula
 
   test do
     %w[necho zecho qecho jecho secho].each do |cmd|
-      system "#{bin}/##{cmd}"
+      system "#{bin}/#{cmd}"
     end
   end
 end
