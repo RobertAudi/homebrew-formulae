@@ -1,11 +1,11 @@
 class Sparc < Formula
   desc "Sparklines for your shell ▄ ▇ ▂ ▁ ▅ ▃"
-  homepage "https://0x49.0x2a.xyz/RobertAudi/sparc"
-  url "https://0x49.0x2a.xyz/RobertAudi/sparc/repository/archive.zip"
-  head "https://0x49.0x2a.xyz/RobertAudi/sparc.git"
+  homepage "https://github.com/RobertAudi/sparc"
+  url "https://github.com/RobertAudi/sparc/archive/master.zip"
+  head "https://github.com/RobertAudi/sparc.git"
 
   version "1.0.0"
-  sha256 "afe4e56ef553dd3130cac67d249fa9f78e1d0cc9a184f3c9117bae1cf8db9780"
+  sha256 "0e4f3ec7e84de54252410cfcd23c7f2b3bcfdf07a20fbfea2800c5861fb3e36c"
 
   def install
     system "make"
