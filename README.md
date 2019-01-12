@@ -56,8 +56,10 @@ Formulae
 These formulae are present in homebrew-core but I added them to this tap with customizations.
 
 - [moreutils][]: Collection of tools that nobody wrote when UNIX was young. **Build options restored**
+- [zsh][]: UNIX shell (command interpreter). **Build with PCRE**
 
 [moreutils]: https://joeyh.name/code/moreutils/
+[zsh]: https://www.zsh.org/
 
 Development
 -----------
