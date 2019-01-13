@@ -23,6 +23,7 @@ brew install sparc
 Formulae
 --------
 
+- [appswitch][]: Switch, hide, show, quit, kill or list macOS applications from the command line or scripts.
 - [asprint][]: Command-line program for OS X that pretty-prints out contents of compiled AppleScript (`.scpt`) files using ANSI escape sequences
 - [cnsc][]: Angular commits minus scope and stuff
 - [git-branch-name][]: Optimally fast branch name command for Git
@@ -37,6 +38,7 @@ Formulae
 - [xe][]: Simple `xargs` and apply replacement
 - [xiny][]: A simple command line tool for converting between various units of measurement
 
+[appswitch]: https://sabi.net/nriley/software/#appswitch
 [asprint]: http://hasseg.org/asprint
 [cnsc]: https://github.com/RobertAudi/cnsc
 [git-branch-name]: https://github.com/itchyny/git-branch-name
