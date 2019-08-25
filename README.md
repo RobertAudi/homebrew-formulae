@@ -31,8 +31,6 @@ Formulae
 - [lr][]: List files, recursively
 - [necho][]: Minimal, sensible alternatives to `echo(1)`
 - [nq][]: Unix command line queue utility
-- [osx-cpu-temp][]: Outputs current CPU temperature for OSX
-- [pidpath][]: Get an executable's path from a pid
 - [sparc][]: Sparklines for your shell ▄ ▇ ▂ ▁ ▅ ▃
 - [tmuxifier][]: Powerful session, window & pane management for Tmux
 - [xe][]: Simple `xargs` and apply replacement
@@ -46,8 +44,6 @@ Formulae
 [lr]: https://github.com/chneukirchen/lr
 [necho]: https://github.com/chneukirchen/necho
 [nq]: https://github.com/chneukirchen/nq
-[osx-cpu-temp]: https://github.com/lavoiesl/osx-cpu-temp
-[pidpath]: https://github.com/jb55/pidpath
 [sparc]: https://github.com/RobertAudi/sparc
 [tmuxifier]: https://github.com/jimeh/tmuxifier
 [xe]: https://github.com/chneukirchen/xe
@@ -58,10 +54,8 @@ Formulae
 These formulae are present in homebrew-core but I added them to this tap with customizations.
 
 - [moreutils][]: Collection of tools that nobody wrote when UNIX was young. **Build options restored**
-- [zsh][]: UNIX shell (command interpreter). **Build with PCRE**
 
 [moreutils]: https://joeyh.name/code/moreutils/
-[zsh]: https://www.zsh.org/
 
 Development
 -----------
