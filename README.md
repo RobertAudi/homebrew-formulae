@@ -67,3 +67,9 @@ Generate `sha256` hash of the installed binaries:
 ```sh
 $ sha256sum <file>
 ```
+
+Test the formula:
+
+```sh
+$ brew test --debug ./Formula/<formula>.rb
+```
