@@ -31,6 +31,7 @@ Formulae
 - [lr][]: List files, recursively
 - [necho][]: Minimal, sensible alternatives to `echo(1)`
 - [nq][]: Unix command line queue utility
+- [searchfs][]: Command line tool to quickly search by filename on entire APFS and HFS+ volumes using the file system catalog.
 - [sparc][]: Sparklines for your shell ▄ ▇ ▂ ▁ ▅ ▃
 - [tmuxifier][]: Powerful session, window & pane management for Tmux
 - [xe][]: Simple `xargs` and apply replacement
@@ -44,6 +45,7 @@ Formulae
 [lr]: https://github.com/chneukirchen/lr
 [necho]: https://github.com/chneukirchen/necho
 [nq]: https://github.com/chneukirchen/nq
+[searchfs]: https://sveinbjorn.org/searchfs
 [sparc]: https://github.com/RobertAudi/sparc
 [tmuxifier]: https://github.com/jimeh/tmuxifier
 [xe]: https://github.com/chneukirchen/xe
