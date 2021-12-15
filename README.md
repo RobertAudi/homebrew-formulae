@@ -51,14 +51,6 @@ Formulae
 [xe]: https://github.com/chneukirchen/xe
 [xiny]: https://xiny.sh/
 
-### Customized formulae
-
-These formulae are present in homebrew-core but I added them to this tap with customizations.
-
-- [moreutils][]: Collection of tools that nobody wrote when UNIX was young. **Build options restored**
-
-[moreutils]: https://joeyh.name/code/moreutils/
-
 Development
 -----------
 
