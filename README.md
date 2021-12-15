@@ -59,15 +59,6 @@ These formulae are present in homebrew-core but I added them to this tap with cu
 
 [moreutils]: https://joeyh.name/code/moreutils/
 
-Casks
------
-
-- [FastDMG][]: Fast, no-nonsense disk image mounting for macOS
-- [IconScanner][]: Find and inspect macOS icon assets (.icns) on your system
-
-[FastDMG]: https://sveinbjorn.org/fastdmg
-[IconScanner]: https://sveinbjorn.org/iconscanner
-
 Development
 -----------
 
