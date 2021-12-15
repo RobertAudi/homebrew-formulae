@@ -26,7 +26,6 @@ Formulae
 - [appswitch][]: Switch, hide, show, quit, kill or list macOS applications from the command line or scripts.
 - [asprint][]: Command-line program for OS X that pretty-prints out contents of compiled AppleScript (`.scpt`) files using ANSI escape sequences
 - [cnsc][]: Angular commits minus scope and stuff
-- [git-branch-name][]: Optimally fast branch name command for Git
 - [lc][]: A command line application which scans directories and identifies what software license things are under
 - [lr][]: List files, recursively
 - [necho][]: Minimal, sensible alternatives to `echo(1)`
@@ -40,7 +39,6 @@ Formulae
 [appswitch]: https://sabi.net/nriley/software/#appswitch
 [asprint]: http://hasseg.org/asprint
 [cnsc]: https://github.com/RobertAudi/cnsc
-[git-branch-name]: https://github.com/itchyny/git-branch-name
 [lc]: https://github.com/boyter/lc
 [lr]: https://github.com/chneukirchen/lr
 [necho]: https://github.com/chneukirchen/necho
