@@ -3,7 +3,7 @@ Homewbrew formulae
 
 Custom [Homebrew tap].
 
-[Homebrew tap]: https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/brew-tap.md
+[Homebrew tap]: https://github.com/Homebrew/brew/blob/master/docs/Taps.md
 
 Usage
 -----
