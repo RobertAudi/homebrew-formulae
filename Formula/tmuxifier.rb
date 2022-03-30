@@ -7,8 +7,6 @@ class Tmuxifier < Formula
 
   head "https://github.com/jimeh/tmuxifier.git"
 
-  bottle :unneeded
-
   depends_on "tmux"
 
   def install
